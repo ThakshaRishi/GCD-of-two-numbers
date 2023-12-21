@@ -26,7 +26,7 @@ n1,n2=int(input()),int(input())
 print("GCD of two numbers is:",gcd())
 ```
 ## Output:
-![gcd of two number](gcd.png)
+![Alt text](<Screenshot 2023-12-21 164246.png>)
 ![Alt text](<Screenshot 2023-12-15 225241.png>)
 
 ## Result:
